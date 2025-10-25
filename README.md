@@ -32,6 +32,6 @@ You can view the live portfolio here (add your deployed link if hosted on Netlif
 
 Email: dev.shoaibali123@gmail.com
 
-LinkedIn: linkedin.com/in/shoaib-ali-470b602b5
+LinkedIn: shoaib-ali-470b602b5
 
 GitHub: github.com/shoaibalichhajro
